@@ -1,0 +1,1 @@
+project geodjango application shop
